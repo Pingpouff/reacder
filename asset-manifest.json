@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Pingpouff/reacder/static/css/main.73e8a634.chunk.css",
-    "main.js": "/Pingpouff/reacder/static/js/main.c4de5a62.chunk.js",
-    "main.js.map": "/Pingpouff/reacder/static/js/main.c4de5a62.chunk.js.map",
-    "runtime-main.js": "/Pingpouff/reacder/static/js/runtime-main.2e480232.js",
-    "runtime-main.js.map": "/Pingpouff/reacder/static/js/runtime-main.2e480232.js.map",
-    "static/js/2.881e33e1.chunk.js": "/Pingpouff/reacder/static/js/2.881e33e1.chunk.js",
-    "static/js/2.881e33e1.chunk.js.map": "/Pingpouff/reacder/static/js/2.881e33e1.chunk.js.map",
-    "static/js/3.76816005.chunk.js": "/Pingpouff/reacder/static/js/3.76816005.chunk.js",
-    "static/js/3.76816005.chunk.js.map": "/Pingpouff/reacder/static/js/3.76816005.chunk.js.map",
-    "index.html": "/Pingpouff/reacder/index.html",
-    "static/css/main.73e8a634.chunk.css.map": "/Pingpouff/reacder/static/css/main.73e8a634.chunk.css.map",
-    "static/js/2.881e33e1.chunk.js.LICENSE.txt": "/Pingpouff/reacder/static/js/2.881e33e1.chunk.js.LICENSE.txt"
+    "main.css": "/reacder/static/css/main.73e8a634.chunk.css",
+    "main.js": "/reacder/static/js/main.c4de5a62.chunk.js",
+    "main.js.map": "/reacder/static/js/main.c4de5a62.chunk.js.map",
+    "runtime-main.js": "/reacder/static/js/runtime-main.7b0148a6.js",
+    "runtime-main.js.map": "/reacder/static/js/runtime-main.7b0148a6.js.map",
+    "static/js/2.881e33e1.chunk.js": "/reacder/static/js/2.881e33e1.chunk.js",
+    "static/js/2.881e33e1.chunk.js.map": "/reacder/static/js/2.881e33e1.chunk.js.map",
+    "static/js/3.76816005.chunk.js": "/reacder/static/js/3.76816005.chunk.js",
+    "static/js/3.76816005.chunk.js.map": "/reacder/static/js/3.76816005.chunk.js.map",
+    "index.html": "/reacder/index.html",
+    "static/css/main.73e8a634.chunk.css.map": "/reacder/static/css/main.73e8a634.chunk.css.map",
+    "static/js/2.881e33e1.chunk.js.LICENSE.txt": "/reacder/static/js/2.881e33e1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e480232.js",
+    "static/js/runtime-main.7b0148a6.js",
     "static/js/2.881e33e1.chunk.js",
     "static/css/main.73e8a634.chunk.css",
     "static/js/main.c4de5a62.chunk.js"
